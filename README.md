@@ -9,4 +9,6 @@ export HTTPS_PROXY=''
 export https_proxy=''
 ```
 
-Running maven packaged classes from CLI: https://stackoverflow.com/questions/37471310/maven-using-command-line-to-run-a-java-class-file
+__Pom.xml__. POM is an acronym for Project Object Model. The pom. xml file contains information of project and configuration information for the maven to build the project such as dependencies, build directory, source directory, test source directory, plugin, goals etc. Maven reads the pom. xml file, then executes the goal.
+
+Running maven packaged classes from CLI: `java -cp target/classes myapp.HelloWorld`
