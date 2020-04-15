@@ -1,5 +1,0 @@
-rabbit
-cow
-milk
-sugar
-toothpaste
