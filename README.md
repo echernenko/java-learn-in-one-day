@@ -1,7 +1,7 @@
 # java-learn-in-one-day
 Learn Java in one day book exercises
 
-1. Installing JDK (Java Development Kit) https://adoptopenjdk.net/?variant=openjdk15&jvmVariant=hotspot
+1. Installing JDK (Java Development Kit) https://aws.amazon.com/corretto/
 2. Install IDE https://www.jetbrains.com/idea/download/
 
 ```
