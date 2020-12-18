@@ -10,7 +10,7 @@ package helloworld;
  * @author echernenko
  */
 public class HelloWorld {
-    static int worldNumber = 7;
+    static int worldNumber = 1;
     public static void main(String[] args) {
         // Print the words Hello World on the screen
         System.out.println("Hello World " + worldNumber + " !!!");
