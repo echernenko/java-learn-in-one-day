@@ -2,6 +2,7 @@
 Learn Java in one day book exercises
 
 1. Installing JDK (Java Development Kit) https://adoptopenjdk.net/?variant=openjdk15&jvmVariant=hotspot
+2. Install IDE https://www.jetbrains.com/idea/download/
 
 ```
 # disabling proxy
