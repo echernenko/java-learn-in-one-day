@@ -1,6 +1,8 @@
 # java-learn-in-one-day
 Learn Java in one day book exercises
 
+1. Installing JDK (Java Development Kit) https://adoptopenjdk.net/?variant=openjdk15&jvmVariant=hotspot
+
 ```
 # disabling proxy
 export HTTP_PROXY=''
