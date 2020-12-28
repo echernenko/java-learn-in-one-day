@@ -25,6 +25,4 @@ javac src/main/java/helloworld/HelloWorld.java -d target/classes
 java -cp target/classes helloworld.HelloWorld
 ```
 
-If you want to run it in IDEA - you need to add `pom.xml` file. Then IDEA automatically picks Maven configuration.
-
 `.jsp files` https://stackoverflow.com/questions/3177733/how-to-avoid-java-code-in-jsp-files
